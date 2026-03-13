@@ -30,3 +30,4 @@ dist-ssr
 /.next
 /node_modules
 /.pnp
+config.bat
